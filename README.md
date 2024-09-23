@@ -1,7 +1,7 @@
 # trabalho_de_SO
-Trabalho final da disciplina de sistemas operacionais;
-Sitemas de Arquivos: NTFS
-Projeto prático: Keylogger
+Trabalho final da disciplina de sistemas operacionais  
+Sitemas de Arquivos: NTFS  
+Projeto prático: Keylogger  
 
 > Aluno: Wanderson Paulino Batista
 > 
